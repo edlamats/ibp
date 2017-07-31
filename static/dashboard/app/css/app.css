@@ -1,0 +1,32 @@
+.navbar-brand > img {
+    height: 17px;
+}
+
+.navbar-brand {
+    font-size: 18px;
+}
+
+
+.dz-preview{
+    max-width: 158px;
+}
+
+
+.dropzone .dz-default.dz-message.dz-message-full:before {
+    content: none !important;
+}
+
+.panel .dropzone {
+    border-color: #d2d2d2;
+}
+
+
+*{
+
+outline:0 !important;
+}
+
+
+.icon-arrow-up16{
+    cursor: pointer;
+}
